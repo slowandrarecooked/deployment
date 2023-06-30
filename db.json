@@ -1,0 +1,30 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "userId":15,
+            "title":"PT WEB 13",
+            "completed":true,
+            "createdAt":123123123213,
+            "category":"work"
+        },
+        {
+            "id":2,
+            "userId":20,
+            "title":"Full Stack",
+            "completed":true,
+            "createdAt":123125612673,
+            "category":"Chores"
+        }
+    ],
+    "comments":[
+        {
+            "id":1,
+            "body":"some comment",
+            "postId":1
+        }
+    ],
+    "profile":{
+        
+    }
+}
